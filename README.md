@@ -1,15 +1,13 @@
 <p align="center">
-
   <a href="README.en.md">
-    <img height="42"
-      src="https://img.shields.io/badge/English-0A84FF?style=for-the-badge&logo=google-translate&logoColor=white&labelColor=0A84FF" />
+    <kbd style="padding: 8px 16px; border-radius: 999px; background:#0A84FF; color:white; font-weight:600;">
+      English
+    </kbd>
   </a>
-
   &nbsp;&nbsp;
-
   <a href="README.fa.md">
-    <img height="42"
-      src="https://img.shields.io/badge/فارسی-CE2E6C?style=for-the-badge&logo=google-translate&logoColor=white&labelColor=CE2E6C&fontSize=18" />
+    <kbd style="padding: 8px 16px; border-radius: 999px; background:#E63946; color:white; font-weight:600; font-family:Tahoma, sans-serif;">
+      فارسی
+    </kbd>
   </a>
-
 </p>
