@@ -1,1 +1,1 @@
-[English](#english) • [Español](#español)
+[English](#english) • [Español](#توضیحات فارسی)
