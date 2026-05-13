@@ -1,13 +1,24 @@
 <p align="center">
-  <a href="README.en.md">
-    <kbd style="padding: 8px 16px; border-radius: 999px; background:#0A84FF; color:white; font-weight:600;">
-      English
-    </kbd>
-  </a>
-  &nbsp;&nbsp;
-  <a href="README.fa.md">
-    <kbd style="padding: 8px 16px; border-radius: 999px; background:#E63946; color:white; font-weight:600; font-family:Tahoma, sans-serif;">
-      فارسی
-    </kbd>
-  </a>
+  <span style="
+    display:inline-block;
+    padding:8px 18px;
+    border-radius:999px;
+    background:#0A84FF;
+    color:white;
+    font-weight:600;
+    font-family:Segoe UI, sans-serif;
+    margin-right:10px;">
+    English
+  </span>
+
+  <span style="
+    display:inline-block;
+    padding:8px 18px;
+    border-radius:999px;
+    background:#E63946;
+    color:white;
+    font-weight:600;
+    font-family:Tahoma, Vazirmatn, sans-serif;">
+    فارسی
+  </span>
 </p>
