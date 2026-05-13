@@ -1,4 +1,4 @@
-[English](#english) • [فارسی](#توضیحات_فارسی)
+[English](#English_Readme) • [فارسی](#توضیحات_فارسی)
 
 ## english
 ...content...
